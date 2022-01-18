@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+
 #include"contact.h"
 void menu()
 {
@@ -28,7 +28,11 @@ int main()
 		case del:
 			DelContact(&con);
 			break;
+		case search:
+			SearchContact(&con);
+			break;
 		case modify:
+			Modify(&con);
 			break;
 		case show:
 			ShowContact(&con);

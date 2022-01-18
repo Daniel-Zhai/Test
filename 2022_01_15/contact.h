@@ -38,4 +38,6 @@ struct contact
 void InitContact(struct contact* ps);
 void AddContact(struct contact* ps);
 void DelContact(struct contact* ps);
+void SearchContact(const struct contact* ps);
+void Modify(struct contact* ps);
 void ShowContact(const struct contact* ps);
