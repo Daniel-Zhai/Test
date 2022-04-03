@@ -71,7 +71,7 @@ int main()
 	b->data.score = 90;
 	p->next = b;
 	b->next = NULL;
-	printf("%s", p->data.num);
+	printf("%s", p->data.name);
 	return 0;
 }
 
