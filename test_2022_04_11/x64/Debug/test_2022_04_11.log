@@ -1,0 +1,4 @@
+﻿  源.c
+D:\资料\学习\Git\Test\test_2022_04_11\源.c(90,19): warning C4047: “=”:“char”与“char [6]”的间接级别不同
+D:\资料\学习\Git\Test\test_2022_04_11\源.c(93,28): warning C4047: “=”:“char”与“char [14]”的间接级别不同
+  test_2022_04_11.vcxproj -> D:\资料\学习\Git\Test\test_2022_04_11\x64\Debug\test_2022_04_11.exe
