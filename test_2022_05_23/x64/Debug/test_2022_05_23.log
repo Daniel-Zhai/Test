@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\资料\学习\Git\Test\test_2022_05_23\源.cpp(10,5): error C2371: “s1”: 重定义；不同的基类型
+D:\资料\学习\Git\Test\test_2022_05_23\源.cpp(9): message : 参见“s1”的声明
+D:\资料\学习\Git\Test\test_2022_05_23\源.cpp(15,12): error C2088: “<<”: 对于 class 非法
